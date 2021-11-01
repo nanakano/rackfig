@@ -1,0 +1,15 @@
+---
+rack_name: 
+- U: "0"
+  rack_size: "32"
+  rack_Weight: "100"
+  Rated_Weight: "2000"
+  Rated_Watt: "100"
+  Outlet_L_Prots: "18"
+  Outlet_R_Prots: "18"
+- U: "1"
+  node: "r640"
+  Weight: "20"
+  Rated_Watt: "50"
+  Outlet_L_Prots: "1"
+  Outlet_R_Prots: "1"
